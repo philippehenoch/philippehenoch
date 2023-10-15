@@ -2,7 +2,7 @@
   
 ### Hi there 👋 I'm Philippe!
 
-I'm working as a Frontend Developer [@ABTasty](https://www.abtasty.com/) in Paris, France.
+I'm working as a Frontend Developer [@ABTasty](https://www.abtasty.com/) in Singapore.
 
 #### Tools
 
